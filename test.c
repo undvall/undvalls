@@ -2,6 +2,7 @@
 
 int main (void)
 {
+    // Detta är en förändring jag gjort i min experimental2
     // Lägger till en kommentar för att skapa en konflikt.
     // Nu blir det kaos!?!?!?!?
     int array[] = {5, 100, 3, 22, 55};
