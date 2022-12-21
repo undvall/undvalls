@@ -21,5 +21,6 @@ int main (void)
         i++;
     }
     
+    // Lägger till en kommentar efter att ha editerat i browsern och UTAN att göra en PULL!!
     return 0;
 }
