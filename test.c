@@ -10,5 +10,17 @@ int main (void)
         printf("%d, ", array[i]);
     }
 
+    // Gör en ändring: Lägger till en array2.
+
+    int array2[] = {1010101, 1, 0};
+    int i = 0;
+    printf("\nNew array: ");
+    while (i < 3)
+    {
+        printf("%d, ", array2[i]);
+        i++;
+    }
+    
+
     return 0;
 }
