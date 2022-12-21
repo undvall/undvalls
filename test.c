@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main (void)
 {
@@ -13,14 +12,15 @@ int main (void)
 
     // Gör en ändring: Lägger till en array2.
 
-    int array2[] = {1010101, 1, 0, 1101};
+    int array2[] = {1010101, 1, 0};
     int i = 0;
-    printf("\nArray2: ");
-    while (i < 4)
+    printf("\nNew array: ");
+    while (i < 3)
     {
         printf("%d, ", array2[i]);
         i++;
-    }    
+    }
+    
 
     return 0;
 }
