@@ -3,6 +3,7 @@
 int main (void)
 {
     // Lägger till en kommentar för att skapa en konflikt.
+    // Lägger till mer för ännu mer konflikt!!
     int array[] = {5, 100, 3, 22, 55};
 
     printf("\nCurrent array: ");
