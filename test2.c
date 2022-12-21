@@ -3,8 +3,6 @@
 
 int main (void)
 {
-    printf("TJUUUUU ");
-
     char string[] = {"ADDING THINGS TO SEE CHANGES ON GIT"};
 
     printf("%s ", string);
